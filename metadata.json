@@ -1,0 +1,7 @@
+{
+  "name": "CampusEvents – College Event Registration Portal",
+  "description": "A clean, modern, and accessible college event discovery and registration portal designed for usability testing and student participation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
